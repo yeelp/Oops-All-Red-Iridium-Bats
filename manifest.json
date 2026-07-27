@@ -1,0 +1,12 @@
+{
+  "Name": "Oops, All Red Iridium Bats!",
+  "Author": "Yeelp",
+  "Version": "1.0.0",
+  "Description": "Replaces all Iridium Bats with their buffed Red Iridium counterparts!",
+  "UniqueID": "yeelp.oopsallrediridiumbats",
+  "EntryDll": "OopsAllRedIridiumBats.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [
+    "Nexus:49799"
+  ]
+}
