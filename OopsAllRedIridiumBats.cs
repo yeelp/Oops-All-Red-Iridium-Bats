@@ -1,6 +1,9 @@
 using HarmonyLib;
+
 using Microsoft.Xna.Framework;
+
 using OopsAllRedIridiumBats.Config;
+
 using StardewModdingAPI;
 using StardewModdingAPI.Events;
 
