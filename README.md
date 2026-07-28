@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/yeelp/Oops-All-Red-Iridium-Bats/refs/heads/master/oopsallrediridiumbatslogo.png)
 
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1629534?style=flat&logo=curseforge&logoColor=f16436&label=CurseForge%20Downloads&color=f16436)](https://www.curseforge.com/stardewvalley/mods/oops-all-red-iridium-bats)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/yeelp/Oops-All-Red-Iridium-Bats/total?style=flat&logo=github&label=GitHub%20Downloads&color=white)](https://github.com/yeelp/Oops-All-Red-Iridium-Bats/releases) 
 [![Discord](https://img.shields.io/discord/750481601107853373?style=flat&logo=discord&logoColor=white&color=5662f6)](https://discord.gg/hwzWdXQ)
 ![](https://img.shields.io/github/v/release/yeelp/Oops-All-Red-Iridium-Bats?include_prereleases)
